@@ -115,8 +115,8 @@
 <div id="education" class="section">
   <h2>🎓 Education & Awards</h2>
   <ul>
-    <li><strong>M.Com (Finance)</strong> – Govt. College for Women, Thiruvananthapuram  
-      <em>University Rank Holder, Aspire Research Award, Best Manager Competition Winner</em></li>
+    <li><strong>M.Com (Finance)</strong> – Govt. College for Women, Thiruvananthapuram</li>
+      <li><em>      University Rank Holder, Aspire Research Award, Best Manager Competition Winner</em></li>
     <li><strong>B.Com (Taxation)</strong> – KNM Govt. Arts & Science College</li>
   </ul>
 </div>
