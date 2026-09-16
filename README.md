@@ -117,9 +117,10 @@
   <ul>
     <li><strong>M.Com (Finance)</strong> – Govt. College for Women, Thiruvananthapuram</li>
       <li><em>      University Rank Holder</li>
-      <li>          Aspire Research Award </li>
-      <li>          Best Manager Competition Winner</em></li>
+      <li>          Aspire Research Award </em></li>
     <li><strong>B.Com (Taxation)</strong> – KNM Govt. Arts & Science College</li>
+    <li><em>        University 2nd Rank Holder</li>
+      <li>          Best Manager Competition Winner</em></li>
   </ul>
 </div>
 
