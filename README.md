@@ -157,13 +157,15 @@
   <h1>Rukmini KS || FP&A Associate</h1>
 
   <div>
-    <button class="nav-btn" onclick="showSection('about')">About Me</button>
-    <button class="nav-btn" onclick="showSection('experience')">Experience</button>
-    <button class="nav-btn" onclick="showSection('projects')">Demo Projects</button>
-    <button class="nav-btn" onclick="showSection('education')">Education & Awards</button>
-    <button class="nav-btn" onclick="showSection('skills')">Skills</button>
-    <button class="nav-btn" onclick="showSection('contact')">Contact</button>
-    <button class="nav-btn" onclick="showSection('resume')">Resume</button>
+   <nav>
+  <a href="#" onclick="showSection('about'); return false;">About Me</a>
+  <a href="#" onclick="showSection('experience'); return false;">Experience</a>
+  <a href="#" onclick="showSection('projects'); return false;">Demo Projects</a>
+  <a href="#" onclick="showSection('education'); return false;">Education & Awards</a>
+  <a href="#" onclick="showSection('skills'); return false;">Skills</a>
+  <a href="#" onclick="showSection('contact'); return false;">Contact</a>
+  <a href="#" onclick="showSection('resume'); return false;">Resume</a>
+</nav>
   </div>
 
 </header>
