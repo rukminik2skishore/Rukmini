@@ -158,11 +158,11 @@
 
   <div>
    <nav>
-      <a href="#" onclick="showSection('about'); return false;">   Home  </a>
+      <a href="#" onclick="showSection('home'); return false;">   Home  </a>
       <a href="#" onclick="showSection('about'); return false;">  About  </a>
       <a href="#" onclick="showSection('experience'); return false;">  Experience  </a>
       <a href="#" onclick="showSection('projects'); return false;">  Projects  </a>
-      <a href="#" onclick="showSection('education'); return false;">  Education & Awards  </a>
+      <a href="#" onclick="showSection('education'); return false;">  Education  </a>
       <a href="#" onclick="showSection('resume'); return false;">  Resume  </a>
       <a href="#" onclick="showSection('contact'); return false;">  Contact  </a>
  
@@ -173,7 +173,7 @@
 
 
 <!-- ABOUT -->
-<div id="about" class="section active">
+<div id="home" class="section active">
 
   <div class="about-container">
     <img src="Profile Photo(1).png"
