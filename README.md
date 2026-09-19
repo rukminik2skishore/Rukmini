@@ -168,6 +168,7 @@
 
 </header>
 
+
 <!-- ABOUT -->
 <div id="about" class="section active">
 
@@ -176,10 +177,13 @@
          alt="Profile Photo">
     <div>
       <h2 style="color:#00aced;">Rukmini KS</h2>
+
       <p>Associate – Business Finance (FP&A) at UST Global.</p>
+
       <p>
         Passionate about corporate finance, analytics, and automation.
       </p>
+
       <p>
         Skilled in turning complex data into actionable insights
         for stakeholders.
@@ -216,9 +220,11 @@
 
   <ul>
     <li>Budgeting, Forecasting, Variance Analysis, and P&L Analysis</li>
+
     <li>
       Automated reporting workflows, reducing cycle time by 50%
     </li>
+
     <li>
       Partnered with stakeholders to deliver accurate and timely insights
     </li>
@@ -235,9 +241,12 @@
   <p>
     <strong>Power BI Dashboard</strong>
     <br>
+
     <img src="dashboards/powerbi_dashboard.png"
          alt="Dashboard Screenshot">
+
     <br>
+
     Automated FP&A reporting with interactive visuals.
   </p>
 
@@ -245,10 +254,13 @@
   <p>
     <strong>SQL Practice Database</strong>
     <br>
+
     <a href="projects/sql_queries.sql" target="_blank">
       View SQL Scripts
     </a>
+
     <br>
+
     Built sample queries for financial data analysis and reporting.
   </p>
 
@@ -256,10 +268,13 @@
   <p>
     <strong>Excel FP&A Model</strong>
     <br>
+
     <a href="projects/fpa_model.xlsx" target="_blank">
       View Excel Model
     </a>
+
     <br>
+
     Variance analysis and forecasting using advanced Excel functions.
   </p>
 
@@ -272,21 +287,28 @@
   <h2>🎓 Education & Awards</h2>
 
   <ul>
+
     <li>
       <strong>M.Com (Finance)</strong> –
       Govt. College for Women, Thiruvananthapuram
+
       <ul>
         <li><em>University Rank Holder</em></li>
         <li><em>Aspire Research Award</em></li>
       </ul>
+
     </li>
+
+
     <li>
       <strong>B.Com (Taxation)</strong> –
       KNM Govt. Arts & Science College
+
       <ul>
         <li><em>University 2nd Rank Holder</em></li>
         <li><em>Best Manager Competition Winner</em></li>
       </ul>
+
     </li>
 
   </ul>
@@ -300,18 +322,23 @@
   <h2>🏆 Skills</h2>
 
   <ul>
+
     <li>
       Excel: Pivot Tables, XLOOKUP, INDEX-MATCH
     </li>
+
     <li>
       Power BI: Data Modeling, DAX, Power Query
     </li>
+
     <li>
       SQL: Beginner–Intermediate
     </li>
+
     <li>
       ERP Tools: SAP Concur, Tally ERP
     </li>
+
     <li>
       FP&A Expertise: Budgeting, Forecasting,
       Variance Analysis, P&L Analysis
@@ -333,9 +360,13 @@
        target="_blank">
       LinkedIn
     </a>
+
     <br><br>
+
     Email: rukminik2skishsun20@gmail.com
+
     <br><br>
+
     Phone: +91-9148866329
   </p>
 
@@ -360,7 +391,7 @@
 
 </body>
 </html>
-
+```
 
 ### What I changed
 
